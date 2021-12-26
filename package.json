@@ -1,0 +1,22 @@
+{
+  "name": "reactbook",
+  "version": "1.0.0",
+  "description": "This is the code created from working through the book React: Up & Running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlockney/reactbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlockney/reactbook/issues"
+  },
+  "homepage": "https://github.com/tlockney/reactbook#readme",
+  "dependencies": {
+  }
+}
